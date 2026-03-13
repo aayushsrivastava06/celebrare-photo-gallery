@@ -1,3 +1,12 @@
+To Run This Project:
+1. Download Repo. and unzip it.
+2. In The Main Folder That Is "photo-gallery".
+3. Open Terminal And Write "npm install" Then "npm run dev"
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
